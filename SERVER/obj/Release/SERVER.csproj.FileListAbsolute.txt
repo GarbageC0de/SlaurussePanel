@@ -1,0 +1,8 @@
+C:\Users\Revelin\source\repos\boostpanel\build\launcher\SERVER.exe.config
+C:\Users\Revelin\source\repos\boostpanel\build\launcher\SERVER.exe
+C:\Users\Revelin\source\repos\boostpanel\build\launcher\SERVER.pdb
+C:\Users\Revelin\source\repos\boostpanel\SERVER\obj\Release\SERVER.csprojAssemblyReference.cache
+C:\Users\Revelin\source\repos\boostpanel\SERVER\obj\Release\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\Revelin\source\repos\boostpanel\SERVER\obj\Release\SERVER.csproj.CopyComplete
+C:\Users\Revelin\source\repos\boostpanel\SERVER\obj\Release\SERVER.exe
+C:\Users\Revelin\source\repos\boostpanel\SERVER\obj\Release\SERVER.pdb
