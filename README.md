@@ -1,7 +1,6 @@
 # SlaurussePanel
-Very good, professional and clean source code of vertigo boost panel
-
 Сурсы панели слаусера.
+
 Установка:
 * Установить виртуальный сервер с MySQL
 * Пользователь: root
